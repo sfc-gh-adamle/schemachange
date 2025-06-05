@@ -96,7 +96,7 @@ subfolders (and nested subfolders) as you would like.
 ### Versioned Script Naming
 
 Versioned change scripts follow a similar naming convention to that used
-by [Flyway Versioned Migrations](https://flywaydb.org/documentation/migrations#versioned-migrations). The script name
+by [Flyway Versioned Migrations](https://documentation.red-gate.com/fd/versioned-migrations-273973333.html). The script name
 must follow this pattern (image taken
 from [Flyway docs](https://flywaydb.org/documentation/migrations#versioned-migrations)):
 
